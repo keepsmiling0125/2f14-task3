@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Bb`QmReyt`eDe2b$[/fq" x="347" y="-68"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="T.!YXgVcWB}gJtKXu3d%"><value name="COND"><shadow type="logic_boolean" id="Ty~|SD?p|O9uyK=~UL{|"><field name="BOOL">TRUE</field></shadow></value><statement name="DO"><block type="device_show_number" id="ejbjJT|uX*/3|x4*Ne}U"><value name="number"><shadow type="math_number" id="M]%xwik-*+^4TyW6D@UM"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="JK~5egX6f_{Zb#H=m(FR"><value name="number"><shadow type="math_number" id="w9jkb561kLh/[#+]LQd3"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="dTd!xm_(e]SsE{M+ZNZx"><value name="number"><shadow type="math_number" id="vS6Z]!^Dd-GpMMM(snop"><field name="NUM">1</field></shadow></value><next><block type="device_show_number" id="}B_Oi)hi|U1rf}Gj!^y;"><value name="number"><shadow type="math_number" id="bPLakE9#PyK%9$pX|H?l"><field name="NUM">0</field></shadow></value><next><block type="device_pause" id="[}9Urh1_UqT~@*t4?`c$"><value name="pause"><shadow type="timePicker" id="3.;1W.)=G*uz]Q$LjqA-"><field name="ms">2000</field></shadow></value><next><block type="device_show_leds" id="urLmQ7vE!fY|;MGk7{^A"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="ufd$]wK`~2NZGt92FV!I"><field name="i">IconNames.SmallDiamond</field><next><block type="basic_show_icon" id="P4B$9T/3{_v9p9+h-=VP"><field name="i">IconNames.Diamond</field><next><block type="device_show_leds" id="/j!@f=lxLf8knE4;ed(j"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="%*qy%Z[uEGNG=t,Us|T6"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="pxt-on-start" id="DJ[ozS8CG|W-aMyQCFEd" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="9C/XXrs95rsRl%Q5IDKF"><value name="text"><shadow type="text" id="#mLX|ht($Dheia%g|BjT"><field name="TEXT">2F 14 Rachel</field></shadow></value></block></statement></block><block type="device_button_event" id="O_5^~cia7irF6SVm/WW;" x="1028" y="287"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_number" id="*ZT,$_B?jm~uh8!Y9rEV"><value name="number"><shadow type="math_number" id="ZL(ruc[T5+!_M;}^C#:N"><field name="NUM">0</field></shadow></value></block></statement></block></xml>
